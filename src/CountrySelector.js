@@ -103,7 +103,7 @@ function CountrySelector (){
             ))}
          </select>
 
-         {selectedCities && (<h2><span><strong>You selected </strong></span><span style={{fontSize:"40px"}}>{selectedCities}</span>
+         {selectedCities && (<h2><span><strong>You selected </strong></span><span style={{fontSize:"40px"}}>{selectedCities}</span>,
          <span style={{
              color: "#777"
          }}>{" "}
