@@ -107,7 +107,7 @@ function CountrySelector (){
          <span style={{
              color: "#777"
         
-         }}>{" "}
+         }}>
             {selectedStates},{selectedCountries}</span> 
             </h2>
         )}   
