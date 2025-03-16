@@ -107,7 +107,7 @@ function CountrySelector() {
   <span>Goa, India</span>
 </h2> */}
 
-            {selectedCities && (<h2><span><strong>You selected </strong></span>
+            {selectedCities && (<h2><span>You selected </span>
             <span style={{ fontSize: "40px" }}>{selectedCities}</span>,
                 <span style={{
                     color: "#777"
